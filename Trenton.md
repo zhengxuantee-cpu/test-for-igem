@@ -100,4 +100,4 @@ return 0;
 3.图片压缩，描述是如何压缩的（5分）
 图片压缩是通过降低图片文件大小来减少存储和传输成本的过程。本次压缩采用了有损压缩方式，在保证图片视觉质量基本不受影响的前提下，降低分辨率和压缩质量参数，从而减少冗余像素数据，显著缩小文件体积。
 
-4.[Github Link](https://github.com/zhengxuantee-cpu/test-for-igem/blob/main/Introduction_TrentonTeeZhengXuan)
+4.[Github Link](https://github.com/zhengxuantee-cpu/test-for-igem)
