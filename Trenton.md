@@ -25,7 +25,7 @@
 - Microsoft Series
 - Basic Human Practices Experience as an **ex-event planner cum publicity member**
 - Fluent in English Speaking
-- Favourite models to work with : `E.coli, Sus scrofa domesticus, Homo Sapien`
+- Favourite models to work with : *E.coli*, *Sus scrofa domesticus*, *Homo Sapien*
 
 ## Hobbies
 - ~~Drinking Alcohol~~
@@ -79,6 +79,8 @@ return 0;
 ---
 [^1]:Wikipedia **Stranger Things**, Updated in 2025.
 
+`Thanks for your patience!!`
+<br></br>
 2.HTML+CSS内联样式正确使用（10分）
 
 <p style="color: blue; font-size: 18px;">
