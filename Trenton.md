@@ -65,6 +65,20 @@ return 0;
 | F | 60% |  False |
 | J | 55% |  False |
 
+## University Life from 2023-2026
+```mermaid
+graph TD
+  Start(University Life Journey) --> Y2023[2023: Suffering from Physics & Advanced Math]
+  Y2023 --> Y2024[2024: Started researching on how to research]
+  Y2024 --> Y2025[2025: Started planning my exchange program to Canada]
+  Y2025 --> Y2026[2026: Started immersing myself in iGEM]
+  Y2026 --> End(Next chapter...)
+
+  style Y2023 fill:#ffd6d6,stroke:#333,stroke-width:1px
+  style Y2024 fill:#fff2cc,stroke:#333,stroke-width:1px
+  style Y2025 fill:#d9e8ff,stroke:#333,stroke-width:1px
+  style Y2026 fill:#d8f5d8,stroke:#333,stroke-width:1px
+```
 ## 2025 Goals Checklist
 - [x] Experience mesmerizing aurora 
 - [x] Enjoy a cup of hot chocolate
